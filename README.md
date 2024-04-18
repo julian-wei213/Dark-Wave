@@ -1,1 +1,2 @@
-# Dark-Wave
+# empty-project
+Empty game project to use as template

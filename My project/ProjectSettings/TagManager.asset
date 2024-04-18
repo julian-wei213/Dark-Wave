@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Main Weapon
+  - Side Arm
+  - Consumable
+  - Enemy
+  - Main Ammo
+  - Side Ammo
+  - Health
+  - WAVE
+  - Damage Pill
+  - Firerate Pill
+  - headlights
+  - headlight obj
+  - HealthPill
+  - Speed Pill
+  - Jump
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Immortal
+  - Water
+  - UI
+  - Items
+  - Ground Layer
+  - Entities
+  - Player
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 1328176701
+    locked: 0
+  - name: Bullet
+    uniqueID: 1248600727
+    locked: 0
+  - name: L_Arm
+    uniqueID: 2794608447
+    locked: 0
+  - name: Legs
+    uniqueID: 3953723435
+    locked: 0
+  - name: Body
+    uniqueID: 2278799347
+    locked: 0
+  - name: Gun
+    uniqueID: 987959921
+    locked: 0
+  - name: R_Arm
+    uniqueID: 2501913241
+    locked: 0
+  - name: Environment
+    uniqueID: 1957286319
+    locked: 0

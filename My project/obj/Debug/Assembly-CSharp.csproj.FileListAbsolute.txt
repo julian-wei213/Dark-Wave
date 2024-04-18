@@ -1,0 +1,2 @@
+C:\Users\TheBu\Documents\gpd-gdp-3\My project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\TheBu\Documents\gpd-gdp-3\My project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
